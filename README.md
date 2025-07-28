@@ -26,6 +26,8 @@ Copy
 Edit
 kivy-calculator/
 ├── calculator.py      # Main Python file with GUI logic
+
 ├── README.md          # Project documentation
+
 └── assets/
     └── calculator.png # Screenshot of the calculator GUI
