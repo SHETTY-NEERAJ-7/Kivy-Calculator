@@ -21,9 +21,6 @@ Language: Python 3.x
 GUI Framework: Kivy
 
 Project Structure
-bash
-Copy
-Edit
 kivy-calculator/
 ├── calculator.py      # Main Python file with GUI logic
 
