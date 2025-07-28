@@ -2,7 +2,7 @@ Kivy Calculator GUI App
 A simple calculator application built using Python and the Kivy framework. This GUI-based calculator supports basic arithmetic operations and demonstrates how to build cross-platform desktop apps using Kivy without a .kv design file.
 
 Demo
-![Calculator GUI](assets/calculator.png)
+![Calculator GUI](assets/calculator.PNG)
 
 Features
 Clean and responsive GUI using Kivy
