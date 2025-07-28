@@ -21,7 +21,8 @@ Language: Python 3.x
 GUI Framework: Kivy
 
 Project Structure
-kivy-calculator/
+kivy-calculator
+
 ├── calculator.py      # Main Python file with GUI logic
 
 ├── README.md          # Project documentation
